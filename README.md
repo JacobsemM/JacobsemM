@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Mauricio
 
 - 🔭 I'm not working at the moment
 - 🌱 I’m currently learning JavaScript, Python, Node.JS, React Native, SQL
