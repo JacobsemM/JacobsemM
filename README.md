@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
-
+---
 <p align="center">
   <img width="44%" src = "https://github-readme-stats.vercel.app/api?username=mjacobsem&count_private=true&show_icons=true&theme=algolia&line_height=27">
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjacobsem&langs_count=3&layout=compact&theme=algolia" />
