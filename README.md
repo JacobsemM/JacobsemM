@@ -17,5 +17,8 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=mjacobsem&style=for-the-badge)](https://github.com/mjacobsem/mjacobsem)
-[![Repos Badge](https://badges.strrl.dev/repos/mjacobsem?style=for-the-badge&color=007ACC)](https://github.com/csorlandi?tab=repositories)
+<p align="center">
+  <img width="44%" src = "https://github-readme-stats.vercel.app/api?username=mjacobsem&count_private=true&show_icons=true&theme=algolia&line_height=27">
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjacobsem&langs_count=3&layout=compact&theme=algolia" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mjacobsem&theme=algolia" alt="#mjacobsem" />
+</p>
