@@ -16,3 +16,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
+
+[![Visits Badge](https://komarev.com/ghpvc/?username=mjacobsem&style=for-the-badge)](https://github.com/mjacobsem/mjacobsem)
+[![Repos Badge](https://badges.strrl.dev/repos/mjacobsem?style=for-the-badge&color=007ACC)](https://github.com/csorlandi?tab=repositories)
